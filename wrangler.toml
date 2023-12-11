@@ -1,0 +1,7 @@
+name = "clipboard-demo-worker"
+main = "src/index.ts"
+compatibility_date = "2023-01-01"
+
+kv_namespaces = [
+  { binding = "clipboard", id = "587b849f530240428c1bee3622213852" }
+]
